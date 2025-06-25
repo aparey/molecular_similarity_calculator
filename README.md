@@ -29,7 +29,7 @@ A modern web application for calculating and visualizing molecular similarity us
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/molecule-similarity-calculator.git
+   git clone https://github.com/aparey/molecule_similarity_calculator.git
    ```
 
 2. Install dependencies:
