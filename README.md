@@ -1,1 +1,1 @@
-# molecular_similarity_calculator
+# Molecular Similarity Score
